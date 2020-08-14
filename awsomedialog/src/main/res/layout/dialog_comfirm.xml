@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@drawable/bg_round_solid_color"
-    android:padding="@dimen/p_2x"
+    android:padding="16dp"
     app:layout_constraintTop_toTopOf="parent"
     tools:layout_editor_absoluteX="16dp">
 
