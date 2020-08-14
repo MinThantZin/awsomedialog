@@ -1,0 +1,3 @@
+include ':awsomedialog'
+include ':app'
+rootProject.name = "AwsomeDialog"
